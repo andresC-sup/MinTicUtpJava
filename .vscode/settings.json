@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "semanaUno/src",
         "firstP/src",
-        "semanaUno/src"
+        "semanaTres/semana3/src/main/java/co/edu/utp/misiontic2022"
     ]
 }
